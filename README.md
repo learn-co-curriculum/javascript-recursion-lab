@@ -6,7 +6,7 @@
 
 ## Introducton
 **_Red alert!_** A rogue web developer is angry and is deleting all of the
-critical packages that our product depends on! It's your job to rewrite some 
+critical packages that our product depends on! It's our job to rewrite some 
 of the functions that make our app run.
 
 ![I'm very sorry for you if you can't see this gif. It's classic. Please raise an issue.](http://i.imgur.com/Lmy5P.gif)
@@ -28,4 +28,7 @@ Eg: `sum([1,6,9,12,8]) = 1 + 6 + 9 + 12 + 8`
 
 Hint: Remember that the sum of the empty array is `0`, the sum of an array
 with one element `n` is just `n`, and the sum of the array `[m,n]` is `m+n`. 
-Use those as your base cases.
+We'll use those as our base cases.
+
+## Function 3
+
